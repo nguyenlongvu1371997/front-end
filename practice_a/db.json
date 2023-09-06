@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "T-shirt blue",
+      "date": "12/01/2023",
+      "amount": 12,
+      "types": {
+        "id": 2,
+        "name": "T-shirt"
+      }
+    },
+    {
+      "id": 2,
+      "name": "T-shirt black",
+      "date": "12/02/2023",
+      "amount": 20,
+      "types": {
+        "id": 2,
+        "name": "T-shirt"
+      }
+    },
+    {
+      "id": 3,
+      "name": "abcde",
+      "date": "09/09/2023",
+      "amount": 100,
+      "type": "dress",
+      "types": {
+        "id": 1,
+        "name": "dress"
+      }
+    },
+    {
+      "id": 4,
+      "name": "T-shirt red",
+      "date": "12/03/2023",
+      "amount": 15,
+      "types": {
+        "id": 2,
+        "name": "T-shirt"
+      }
+    },
+    {
+      "id": 5,
+      "name": "underwear green",
+      "date": "12/02/2023",
+      "amount": 5,
+      "types": {
+        "id": 3,
+        "name": "underwear"
+      }
+    },
+    {
+      "id": 6,
+      "name": "dress pink",
+      "date": "12/02/2023",
+      "amount": 2,
+      "type": "dress",
+      "types": {
+        "id": 1,
+        "name": "dress"
+      }
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "dress"
+    },
+    {
+      "id": 2,
+      "name": "T-shirt"
+    },
+    {
+      "id": 3,
+      "name": "underwear"
+    }
+  ]
+}
